@@ -19,3 +19,15 @@ This project reflects a real-world use case of COBOL — data processing in the 
 ⚙️ Process large data sets efficiently with COBOL sequential files
 
 🏛 Built to mimic real enterprise financial systems
+
+
+
+
+📁 File Structure
+
+| File                        | Description                       | Sample Fields                                        |
+| --------------------------- | --------------------------------- | ---------------------------------------------------- |
+| `BANK-STATEMENT.DAT`        | Bank transaction file             | Account Number, Transaction Date, Transaction Amount |
+| `INTERNAL-RECORDS.DAT`      | Company internal transaction file | Account Number, Due Date, Expected Amount            |
+| `RECONCILIATION-REPORT.DAT` | Output report                     | Account Number, Status, Expected Amount, Paid Amount |
+
