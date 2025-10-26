@@ -31,3 +31,23 @@ This project reflects a real-world use case of COBOL — data processing in the 
 | `INTERNAL-RECORDS.DAT`      | Company internal transaction file | Account Number, Due Date, Expected Amount            |
 | `RECONCILIATION-REPORT.DAT` | Output report                     | Account Number, Status, Expected Amount, Paid Amount |
 
+
+
+⚙️ How It Works
+
+Reads both input files sequentially.
+
+Compares transactions by account number and amount.
+
+Identifies:
+
+MATCH → Payment confirmed
+
+MISSING → Expected payment not found
+
+DUPLICATE → Unexpected extra payment
+
+DIVERTED → Payment exists, but amount differs
+
+Writes the results into a reconciliation report file.
+
