@@ -51,3 +51,13 @@ DIVERTED → Payment exists, but amount differs
 
 Writes the results into a reconciliation report file.
 
+
+
+
+🧰 Requirements
+
+GnuCOBOL or any COBOL compiler
+
+Sequential .DAT input files in the correct format
+
+
