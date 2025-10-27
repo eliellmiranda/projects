@@ -61,3 +61,11 @@ GnuCOBOL or any COBOL compiler
 Sequential .DAT input files in the correct format
 
 
+
+
+🧑‍💻 How to Run
+
+cobc -x bank_reconciliation.cob
+
+
+
