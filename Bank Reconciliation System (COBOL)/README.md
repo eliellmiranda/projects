@@ -65,6 +65,8 @@ Sequential .DAT input files in the correct format
 
 🧑‍💻 How to Run
 
+1️. Compile the program
+
 cobc -x bank_reconciliation.cob
 
 
