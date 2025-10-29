@@ -63,11 +63,20 @@ Sequential .DAT input files in the correct format
 
 
 
-🧑‍💻 How to Run
+‍💻 How to Run
 
 1️. Compile the program
 
-cobc -x bank_reconciliation.cob
+cobc -x bank-reconciliation.cob
+
+
+
+
+2. Place input files in the working directory
+
+BANK-STATEMENT.DAT
+INTERNAL-RECORDS.DAT
+
 
 
 
