@@ -80,3 +80,12 @@ INTERNAL-RECORDS.DAT
 
 
 
+3. Run the program
+
+./bank_reconciliation
+
+
+
+
+
+
