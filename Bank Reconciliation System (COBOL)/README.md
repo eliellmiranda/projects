@@ -86,6 +86,13 @@ INTERNAL-RECORDS.DAT
 
 
 
+4. Check the output
+
+RECONCILIATION-REPORT.DAT
+
+
+
+
 
 
 
